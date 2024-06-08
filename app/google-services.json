@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796855737525",
+    "project_id": "chatapp-41236",
+    "storage_bucket": "chatapp-41236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796855737525:android:7df1624025c6160f18f2fc",
+        "android_client_info": {
+          "package_name": "kr.ac.kopo.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjh-hJu9AmMm_RHAXnU5uFVQsTa39OV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
