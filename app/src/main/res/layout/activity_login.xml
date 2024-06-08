@@ -66,4 +66,11 @@
         android:text="회원 가입"
         android:textColor="@android:color/white"
         android:textSize="20sp"/>
+    <ImageView
+        android:id="@+id/middle_image"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_below="@id/signUp_btn"
+        android:layout_centerInParent="true"
+        android:src="@drawable/image"/>
 </RelativeLayout>
